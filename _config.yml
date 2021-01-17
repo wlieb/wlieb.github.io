@@ -12,11 +12,11 @@ bootswatch_theme: "united" # cerulean, spacelab, united
 
 # site Settings
 lang: "en_US"
-title: "Lone Wolf Theme"
-description: "A simple bootstrap based jekyll theme."
-url: # site url e.g. "https://manid2.github.io"
+title: "Weird Herd"
+description: "3D Printing and Making"
+url: "https://wlieb.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: # GitHub username/repo-name e.g. "manid2/lone-wolf-theme"
+repository: "wlieb/wlieb.github.io"
 teaser: # default teaser image for blog posts
 logo: "lwt-logo-wolf-v2.png" # logo image to be used in masthead
 masthead_title: # overrides the website title displayed in the masthead
